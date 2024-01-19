@@ -1,0 +1,3792 @@
+[ {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+   "location": "COMPONENT",
+   "manifest_version": 1,
+   "name": "Web Store",
+   "path": "/opt/google/chrome/resources/web_store",
+   "permissions": {
+      "active": {
+         "api": [ "management", "system.display", "system.storage", "webstorePrivate", "system.cpu", "system.memory", "system.network" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_HOSTED_APP",
+   "version": "0.2"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "bbohlinegjlacogbjchanihbiiboabcp",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "gorescript classic",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/bbohlinegjlacogbjchanihbiiboabcp/1.2.2_0",
+   "permissions": {
+      "active": {
+         "api": [ "fileSystem", "app.window.fullscreen", "app.window.fullscreen.overrideEsc", "pointerLock", "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.2.2"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "bgeenhgbeaoompekpbboadglhnndbbjp",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Bitcoin clicker",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/bgeenhgbeaoompekpbboadglhnndbbjp/1.0.0.3_0",
+   "permissions": {
+      "active": {
+         "api": [ "unlimitedStorage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_LEGACY_PACKAGED_APP",
+   "version": "1.0.0.3"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "bgjkhidjaocnkjchjfpgbfdegeiljcdn",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "So Many Me - Demo",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/bgjkhidjaocnkjchjfpgbfdegeiljcdn/2.6_0",
+   "permissions": {
+      "active": {
+         "api": [ "app.window.fullscreen", "storage", "unlimitedStorage", "webview" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "2.6"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "bipeejlnidabdmokcacpnimdjiieciem",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "RUHS Browser",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/bipeejlnidabdmokcacpnimdjiieciem/0.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "audioCapture", "app.window.fullscreen", "pointerLock", "storage", "videoCapture", "webview" ],
+         "explicit_hosts": [ "*://*/*", "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 3,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "bpmcpldpdmajfigpchkicefoigmkfalc",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Basic Editor for Office files",
+   "path": "/usr/share/chromeos-assets/quickoffice",
+   "permissions": {
+      "active": {
+         "api": [ "clipboardRead", "clipboardWrite", "cookies", "downloads", "fileSystem", "fileSystem.write", "identity", "identity.email", "metricsPrivate", "storage", "unlimitedStorage" ],
+         "explicit_hosts": [ "*://*.google.com/*", "https://www.google-analytics.com/*", "https://www.googleapis.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "147.638.665"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 3,
+      "listeners": [ {
+         "event_name": "alarms.onAlarm",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onStartup",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "cgbbbjmgdpnifijconhamggjehlamcif",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Gopher Buddy",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/cgbbbjmgdpnifijconhamggjehlamcif/0.9.9.3_2",
+   "permissions": {
+      "active": {
+         "api": [ "alarms", "browsingData", "identity", "identity.email", "idle", "notifications", "storage", "enterprise.deviceAttributes" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "https://gopher-buddy-dev.appspot.com/*", "https://gopher-buddy-prod.appspot.com/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "0.9.9.3"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "cnbgggchhmkkdmeppjobngjoejnihlei",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Play Store",
+   "path": "/opt/google/chrome/resources/chromeos/arc_support",
+   "permissions": {
+      "active": {
+         "api": [ "browser", "nativeMessaging", "webview" ],
+         "explicit_hosts": [ "chrome://resources/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "0.2.0.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "ttsEngine.onPause",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onResume",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onSpeakWithAudioStream",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onStop",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "dakbfdmgjiabojdgbiljlhgjbokobjpg",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "eSpeakNG text-to-speech extension",
+   "path": "/usr/share/chromeos-assets/speech_synthesis/espeak-ng",
+   "permissions": {
+      "active": {
+         "api": [ "storage", "ttsEngine" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.49.3.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 16,
+      "listeners": [ {
+         "event_name": "identity.onSignInChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "idle.onStateChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRedirect/g5",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g2",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g6",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g9",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeSendHeaders/g7",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeSendHeaders/g8",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onCompleted/g4",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onHeadersReceived/g3",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onSendHeaders/g1",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onFocusChanged",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onRemoved",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "ddfbkhpmcdbciejenfcolaaiebnjcbfc",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Connect for Chrome - Education",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ddfbkhpmcdbciejenfcolaaiebnjcbfc/2.3.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "cookies", "identity", "identity.email", "idle", "storage", "tabs", "unlimitedStorage", "webRequest", "webRequestBlocking", "enterprise.deviceAttributes" ],
+         "explicit_hosts": [ "\u003Call_urls>", "chrome://favicon/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "2.3.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://dlabgdldanmcjlmnifgogbnffionmfki/"
+      } ]
+   },
+   "id": "dlabgdldanmcjlmnifgogbnffionmfki",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Rubiks Cube for Google Chrome",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/dlabgdldanmcjlmnifgogbnffionmfki/3.0.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "3.0.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "dppefdlohekfhjenppnpjekkjjgndhdf",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "New XCommander",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/dppefdlohekfhjenppnpjekkjjgndhdf/0.3.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "fileSystem", "fileSystem.write" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "0.3.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "eafbknfeaeiaachhikdedceinfpgcjpd",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "StoneBack",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/eafbknfeaeiaachhikdedceinfpgcjpd/1.5.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage", "unlimitedStorage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.5.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 22,
+      "listeners": [ {
+         "event_name": "browserAction.onClicked",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "contextMenus",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onUpdateAvailable",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "storage.onChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webNavigation.onBeforeNavigate",
+         "filter": {
+            "url": [ {
+               "pathSuffix": ".pdf",
+               "urlPrefix": "file://"
+            }, {
+               "pathSuffix": ".PDF",
+               "urlPrefix": "file://"
+            } ]
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRedirect/g3",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g1",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g10",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g11",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g7",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeSendHeaders/g6",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onCompleted/g12",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onCompleted/g4",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onErrorOccurred/g5",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onHeadersReceived/g13",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onHeadersReceived/g8",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onHeadersReceived/g9",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onSendHeaders/g2",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onFocusChanged",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "ecnphlgnajanjnkcmbpancdjoidceilk",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Kami for Google Chromeâ„¢",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ecnphlgnajanjnkcmbpancdjoidceilk/2.0.18142_0",
+   "permissions": {
+      "active": {
+         "api": [ "contextMenus", "storage", "tabs", "webNavigation", "webRequest", "webRequestBlocking" ],
+         "explicit_hosts": [ "\u003Call_urls>", "chrome://favicon/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*/*", "*://canary.kamihq.com/web/*", "*://canary2.kamihq.com/web/*", "*://local.kamipdf.com/web/*", "*://staging.kamihq.com/web/*", "*://test.kamihq.com/web/*", "*://test1.kamihq.com/web/*", "*://test2.kamihq.com/web/*", "*://test3.kamihq.com/web/*", "*://test4.kamihq.com/web/*", "*://test5.kamihq.com/web/*", "*://test6.kamihq.com/web/*", "*://test7.kami.systems/web/*", "*://test8.kami.systems/web/*", "*://test9.kami.systems/web/*", "*://web.kamihq.com/web/*", "\u003Call_urls>", "https://*.officeapps.live.com/*", "https://*.onedrive.live.com/*", "https://*.sharepoint.com/*p*/r/*", "https://*.sharepoint.com/*w*/r/*", "https://app.peardeck.com/*", "https://assignments.onenote.com/*", "https://classroom.google.com/*", "https://classroom.google.com/*g/tg/*", "https://docs.google.com/*", "https://docs.google.com/document/d/*", "https://docs.google.com/presentation/d/*", "https://docs.google.com/spreadsheets/d/*", "https://drive.google.com/picker*", "https://jamboard.google.com/*", "https://jamboard.google.com/d/*", "https://www.canva.com/design/*", "https://www.teacherspayteachers.com/**" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "2.0.18142"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [ "DISABLE_USER_ACTION" ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "fbgcedjacmlbgleddnoacbnijgmiolem",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Microsoft Bing Search with Rewards",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/fbgcedjacmlbgleddnoacbnijgmiolem/2.16_0",
+   "permissions": {
+      "active": {
+         "api": [ "alarms", "cookies", "management", "notifications", "storage", "webRequest", "webRequestBlocking" ],
+         "explicit_hosts": [ "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "2.16"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "femoooemgmjaebeodbbikbkmhlafenpl",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Causality Games",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/femoooemgmjaebeodbbikbkmhlafenpl/11_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_HOSTED_APP",
+   "version": "11"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 6,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      }, {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://fepaalfjfchbdianlgginbmpeeacahoo/"
+      } ]
+   },
+   "id": "fepaalfjfchbdianlgginbmpeeacahoo",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Toolbox for Google Play Storeâ„¢",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/fepaalfjfchbdianlgginbmpeeacahoo/3.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "cookies", "storage" ],
+         "explicit_hosts": [ "*://play.google.com/*", "*://www.apkmirror.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://play.google.com/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "3.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 19,
+      "listeners": [ {
+         "event_name": "commands.onCommand",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "contextMenus.onClicked",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "permissions.onAdded",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "permissions.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "runtime.onUpdateAvailable",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "storage.onChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onReplaced",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webNavigation.onBeforeNavigate",
+         "filter": {
+            "url": [ {
+               "schemes": [ "http", "https" ]
+            } ]
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webNavigation.onCommitted",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRedirect/g3",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeRequest/g1",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeSendHeaders/g6",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onHeadersReceived/g2",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onResponseStarted/g4",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "gcalenpjmijncebpfijmoaglllgpjagf",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Tampermonkey BETA",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/gcalenpjmijncebpfijmoaglllgpjagf/5.0.6192_0",
+   "permissions": {
+      "active": {
+         "api": [ "clipboardWrite", "contextMenus", "cookies", "declarativeContent", "idle", "notifications", "storage", "tabs", "unlimitedStorage", "webNavigation", "webRequest", "webRequestBlocking" ],
+         "explicit_hosts": [ "\u003Call_urls>", "chrome://favicon/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "file:///*", "http://*/*", "https://*/*" ]
+      },
+      "optional": {
+         "api": [ "downloads" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "5.0.6192"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "alarms.onAlarm",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "ghbmnnjooekpmoecnnnilnnbdlolhkhi",
+   "location": "EXTERNAL_PREF_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Google Docs Offline",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ghbmnnjooekpmoecnnnilnnbdlolhkhi/1.73.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "alarms", "storage", "unlimitedStorage" ],
+         "explicit_hosts": [ "https://docs.google.com/*", "https://drive.google.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.73.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "ttsEngine.onPause",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onResume",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onSpeak",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "ttsEngine.onStop",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "gjjabgpgjpampikjhjpfhneeoapjbjaf",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Chrome OS built-in text-to-speech extension",
+   "path": "/usr/share/chromeos-assets/speech_synthesis/patts",
+   "permissions": {
+      "active": {
+         "api": [ "accessibilityPrivate", "metricsPrivate", "tts", "ttsEngine", "unlimitedStorage" ],
+         "explicit_hosts": [ "https://*.gvt1.com/*", "https://dl.google.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "28"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://glmcahaliniekaflepgphdiejeoeacfl/"
+      } ]
+   },
+   "id": "glmcahaliniekaflepgphdiejeoeacfl",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Blooket Hacker",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/glmcahaliniekaflepgphdiejeoeacfl/1.5_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*.blooket.com/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.5"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "runtime.onStartup",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/"
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://gndmhdcefbhlchkhipcnnbkcmicncehk/"
+      } ]
+   },
+   "id": "gndmhdcefbhlchkhipcnnbkcmicncehk",
+   "location": "EXTERNAL_COMPONENT",
+   "manifest_version": 3,
+   "name": "Assessment Assistant",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/gndmhdcefbhlchkhipcnnbkcmicncehk/23.117.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "devtools", "enterprise.platformKeys", "management", "storage", "tabs", "webNavigation", "lockWindowFullscreenPrivate" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "23.117.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://hedpcboianohjgdhoblpcpgapknkoojm/"
+      } ]
+   },
+   "id": "hedpcboianohjgdhoblpcpgapknkoojm",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Treasure Arena",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/hedpcboianohjgdhoblpcpgapknkoojm/0.3.4.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "0.3.4.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://hhjciojkfejbnacbiffmecpgppncglgj/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://hhjciojkfejbnacbiffmecpgppncglgj/"
+      } ]
+   },
+   "id": "hhjciojkfejbnacbiffmecpgppncglgj",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "BitLife Life Simulator Unblocked",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/hhjciojkfejbnacbiffmecpgppncglgj/1.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://hlnikoncogimgjceejekeijgkfljbpnn/"
+      }, {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://hlnikoncogimgjceejekeijgkfljbpnn/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://hlnikoncogimgjceejekeijgkfljbpnn/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://hlnikoncogimgjceejekeijgkfljbpnn/"
+      } ]
+   },
+   "id": "hlnikoncogimgjceejekeijgkfljbpnn",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "FNAF Unblocked",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/hlnikoncogimgjceejekeijgkfljbpnn/1.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "honijodknafkokifofgiaalefdiedpko",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Help",
+   "path": "/usr/share/chromeos-assets/helpapp",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "4.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "ibnahnkejjomojpjpfchhhfmblbpooca",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Quento",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ibnahnkejjomojpjpfchhhfmblbpooca/1.2_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.2"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://iccodoajcfhohokmmnemnmohcmihlheh/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://iccodoajcfhohokmmnemnmohcmihlheh/"
+      } ]
+   },
+   "id": "iccodoajcfhohokmmnemnmohcmihlheh",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Krunker IO online for free",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/iccodoajcfhohokmmnemnmohcmihlheh/6.8.7_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [ "https://allunblockedgames.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "6.8.7"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "ineojkjjajpfglpmjnndfioncfjkmmdn",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Contranoid",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ineojkjjajpfglpmjnndfioncfjkmmdn/1.0.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "browserAction.onClicked",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webRequest.onBeforeSendHeaders/g1",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "ioaplpondpicpdlfoccpaenbdinbdbpi",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "GeForce Now Web Enabler",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ioaplpondpicpdlfoccpaenbdinbdbpi/1.0.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "webRequest", "webRequestBlocking" ],
+         "explicit_hosts": [ "*://*.geforcenow.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "iocghaljaochhkgajdilelogdkejkiil",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Pacman Popup",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/iocghaljaochhkgajdilelogdkejkiil/1_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "jbcgphppffkahpoiobhfdjfpbapbjblh",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Marbleous",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/jbcgphppffkahpoiobhfdjfpbapbjblh/3.0.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "3.0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "jblimahfbhdcengjfbdpdngcfcghladf",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "SWOOOP",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/jblimahfbhdcengjfbdpdngcfcghladf/1.1_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 10,
+      "listeners": [ {
+         "event_name": "idle.onStateChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onAttached",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onCreated",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onDetached",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onRemoved",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "webNavigation.onCommitted",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onCreated",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onFocusChanged",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "windows.onRemoved",
+         "filter": {
+         },
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "jgfbgkjjlonelmpenhpfeeljjlcgnkpe",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "ClassLink OneClick Extension",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/jgfbgkjjlonelmpenhpfeeljjlcgnkpe/10.8_0",
+   "permissions": {
+      "active": {
+         "api": [ "activeTab", "idle", "storage", "tabs", "webNavigation" ],
+         "explicit_hosts": [ "http://*.classlink.com/*", "https://*.classlink.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "10.8"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 14,
+      "listeners": [ {
+         "event_name": "input.ime.onActivate",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onBlur",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onCandidateClicked",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onDeactivated",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onMenuItemActivated",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onReset",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "input.ime.onSurroundingTextChanged",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "inputMethodPrivate.onFocus",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "inputMethodPrivate.onScreenProjectionChanged",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "inputMethodPrivate.onSuggestionsChanged",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "system.display.onDisplayChanged",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "types.ChromeSetting.spokenFeedback.onChange",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "virtualKeyboardPrivate.onKeyboardClosed",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "virtualKeyboardPrivate.onKeyboardConfigChanged",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "jkghodnilhceideoidjikpgommlajknk",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Chrome OS XKB",
+   "path": "/usr/share/chromeos-assets/input_methods/input_tools",
+   "permissions": {
+      "active": {
+         "api": [ "accessibilityFeatures.read", "app.window.alpha", "audioCapture", "app.window.ime", "input", "inputMethodPrivate", "metricsPrivate", "notifications", "system.display", "tabs", "tts", "unlimitedStorage", "virtualKeyboardPrivate" ],
+         "explicit_hosts": [ "https://clients4.google.com/*", "https://dl.google.com/*", "https://handwriting.googleapis.com/*", "https://www.googleapis.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0.5.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "app.runtime.onRestarted",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "joaofgaoaipdmglbfjkjfeefdkjjaine",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "My First Browser",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/joaofgaoaipdmglbfjkjfeefdkjjaine/1.3_0",
+   "permissions": {
+      "active": {
+         "api": [ "audioCapture", "app.window.fullscreen", "pointerLock", "storage", "videoCapture", "webview" ],
+         "explicit_hosts": [ "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.3"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 17,
+      "listeners": [ {
+         "event_name": "cookies.onChanged",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "cookies.onChanged",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "permissions.onAdded",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "permissions.onAdded",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "permissions.onRemoved",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "permissions.onRemoved",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "runtime.onUpdateAvailable",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "runtime.onUpdateAvailable",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "storage.onChanged",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "storage.onChanged",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "storage.onChanged",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "tabs.onActivated",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "windows.onFocusChanged",
+         "filter": {
+         },
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      }, {
+         "event_name": "windows.onFocusChanged",
+         "filter": {
+         },
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kbfnbcaeplbcioakkpcpgfkobkghlhen/"
+      } ]
+   },
+   "id": "kbfnbcaeplbcioakkpcpgfkobkghlhen",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Grammarly: Grammar Checker and AI Writing App",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kbfnbcaeplbcioakkpcpgfkobkghlhen/14.1150.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "cookies", "notifications", "storage", "tabs", "scripting" ],
+         "explicit_hosts": [ "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*.apclassroom.collegeboard.org/*", "*://*.app.nearpod.com/*", "*://*.app.seesaw.me/*", "*://*.atlassian.net/*", "*://*.blackboard.com/*", "*://*.blogger.com/*", "*://*.calendar.google.com/*", "*://*.chat.google.com/*", "*://*.classroom.google.com/*", "*://*.commonlit.org/*", "*://*.coursera.org/*", "*://*.educationperfect.com/*", "*://*.facebook.com/*", "*://*.fiverr.com/*", "*://*.forms.office.com/*", "*://*.github.com/*", "*://*.intercom.io/*", "*://*.keep.google.com/*", "*://*.lightning.force.com/*", "*://*.linkedin.com/*", "*://*.mail.aol.com/*", "*://*.mail.google.com/*", "*://*.medium.com/*", "*://*.messenger.com/*", "*://*.onlinechatdashboard.com/*", "*://*.outlook.live.com/*", "*://*.outlook.office.com/*", "*://*.papago.naver.com/*", "*://*.publish.buffer.com/*", "*://*.quora.com/*", "*://*.readworks.org/*", "*://*.reddit.com/*", "*://*.slack.com/*", "*://*.studio.youtube.com/*", "*://*.teams.microsoft.com/*", "*://*.translate.google.com/*", "*://*.trello.com/*", "*://*.twitch.tv/*", "*://*.twitter.com/*", "*://*.upwork.com/*", "*://*.wattpad.com/*", "*://*.web.whatsapp.com/*", "*://*.wix.com/*", "*://*.wordcounter.net/*", "*://*.wordpress.com/*", "*://*.youtube.com/*", "*://*.zendesk.com/*", "*://apclassroom.collegeboard.org/*", "*://app.nearpod.com/*", "*://app.seesaw.me/*", "*://calendar.google.com/*", "*://chat.google.com/*", "*://classroom.google.com/*", "*://commonlit.org/*", "*://coursera.org/*", "*://docs.google.com/document/*", "*://educationperfect.com/*", "*://facebook.com/*", "*://fiverr.com/*", "*://forms.office.com/*", "*://github.com/*", "*://intercom.io/*", "*://keep.google.com/*", "*://linkedin.com/*", "*://mail.aol.com/*", "*://mail.google.com/*", "*://medium.com/*", "*://messenger.com/*", "*://onlinechatdashboard.com/*", "*://outlook.live.com/*", "*://outlook.office.com/*", "*://papago.naver.com/*", "*://publish.buffer.com/*", "*://quora.com/*", "*://readworks.org/*", "*://reddit.com/*", "*://studio.youtube.com/*", "*://teams.microsoft.com/*", "*://translate.google.com/*", "*://trello.com/*", "*://twitch.tv/*", "*://twitter.com/*", "*://upwork.com/*", "*://wattpad.com/*", "*://web.whatsapp.com/*", "*://wix.com/*", "*://wordcounter.net/*", "*://wordpress.com/*", "*://youtube.com/*", "\u003Call_urls>", "https://*.overleaf.com/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "14.1150.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "cookies.onChanged",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kcjeghjjjjdpeaoemlhdhnbbkpgncpfc/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kcjeghjjjjdpeaoemlhdhnbbkpgncpfc/"
+      } ]
+   },
+   "id": "kcjeghjjjjdpeaoemlhdhnbbkpgncpfc",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "RPG Game - Dedalium by Loycom Games",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kcjeghjjjjdpeaoemlhdhnbbkpgncpfc/0.4.10_0",
+   "permissions": {
+      "active": {
+         "api": [ "cookies", "notifications", "storage", "offscreen" ],
+         "explicit_hosts": [ "https://api.dedalium.com/*", "https://cdn.dedalium.com/*", "https://dedalium.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "http://*/*", "https://*/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "0.4.10"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "kddnkjkcjddckihglkfcickdhbmaodcn",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Chrome Goodies",
+   "path": "/usr/share/chromeos-assets/echo",
+   "permissions": {
+      "active": {
+         "api": [ "alarms", "chromeosInfoPrivate", "cookies", "echoPrivate", "metricsPrivate", "notifications", "storage" ],
+         "explicit_hosts": [ "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "kffmoglgaljfcfaadaknkiipcclifcbn",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Free Rider HD Offline Editor",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kffmoglgaljfcfaadaknkiipcclifcbn/1.6_0",
+   "permissions": {
+      "active": {
+         "api": [ "fileSystem", "fileSystem.write", "app.window.fullscreen" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.6"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "app.runtime.onRestarted",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "runtime.onSuspend",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "kglanclfgliekimcflbfmcjohpikhchb",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Istation",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kglanclfgliekimcflbfmcjohpikhchb/208_1",
+   "permissions": {
+      "active": {
+         "api": [ "alarms", "clipboardRead", "clipboardWrite", "fileSystem", "fileSystem.write", "app.window.fullscreen", "app.window.fullscreen.overrideEsc", {
+            "socket": [ "tcp-connect:*:*", "tcp-listen:*:*", "udp-bind:*:*", "udp-send-to:*:*", "resolve-host" ]
+         }, "storage", "system.storage", "unlimitedStorage", "system.cpu", "system.memory", "system.network" ],
+         "explicit_hosts": [ "http://*.istation.com/*", "https://*.istation.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "208"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kkimjoeojihiofbpebgdfbifkkeljkdg/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kkimjoeojihiofbpebgdfbifkkeljkdg/"
+      } ]
+   },
+   "id": "kkimjoeojihiofbpebgdfbifkkeljkdg",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "FNAF 2 Unblocked",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kkimjoeojihiofbpebgdfbifkkeljkdg/1.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kkkgcfmbleggcpcilccflnnhebbgiclm/"
+      }, {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kkkgcfmbleggcpcilccflnnhebbgiclm/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://kkkgcfmbleggcpcilccflnnhebbgiclm/"
+      }, {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://kkkgcfmbleggcpcilccflnnhebbgiclm/"
+      } ]
+   },
+   "id": "kkkgcfmbleggcpcilccflnnhebbgiclm",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Gun Mayhem 2 Unblocked",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/kkkgcfmbleggcpcilccflnnhebbgiclm/1.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "knlfemondmfkdecmnknlcbjbpifidffh",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Energy Browser",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/knlfemondmfkdecmnknlcbjbpifidffh/1.0.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "audioCapture", "app.window.fullscreen", "pointerLock", "storage", "videoCapture", "webview" ],
+         "explicit_hosts": [ "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "lafjmgdfokjjbcbhbmcajlommahhgnlk",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Kick Bot",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/lafjmgdfokjjbcbhbmcajlommahhgnlk/1.6.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.6.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "ldfmjnlghddcjpboloecgkflfednighd",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Rocket Strike",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ldfmjnlghddcjpboloecgkflfednighd/1.0.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage", "unlimitedStorage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.0.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://lieodnapokbjkkdkhdljlllmgkmdokcm/"
+      }, {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://lieodnapokbjkkdkhdljlllmgkmdokcm/"
+      }, {
+         "event_name": "webNavigation.onCommitted",
+         "filter": {
+         },
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://lieodnapokbjkkdkhdljlllmgkmdokcm/"
+      }, {
+         "event_name": "webNavigation.onCommitted",
+         "filter": {
+         },
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://lieodnapokbjkkdkhdljlllmgkmdokcm/"
+      } ]
+   },
+   "id": "lieodnapokbjkkdkhdljlllmgkmdokcm",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Tampermonkey Editors",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/lieodnapokbjkkdkhdljlllmgkmdokcm/1.0.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage", "tabs", "webNavigation", "scripting" ],
+         "explicit_hosts": [ "https://*.vscode.dev/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "runtime.onInstalled",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://ljpehdpmajakdfbfefniiofjegegffaj/"
+      } ]
+   },
+   "id": "ljpehdpmajakdfbfefniiofjegegffaj",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "[FNF] Friday Night Funkin' Games",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/ljpehdpmajakdfbfefniiofjegegffaj/5.6.0_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "5.6.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://lmjegmlicamnimmfhcmpkclmigmmcbeh/"
+      }, {
+         "event_name": "runtime.onConnectNative",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://lmjegmlicamnimmfhcmpkclmigmmcbeh/"
+      } ]
+   },
+   "id": "lmjegmlicamnimmfhcmpkclmigmmcbeh",
+   "location": "EXTERNAL_PREF_DOWNLOAD",
+   "manifest_version": 3,
+   "name": "Application Launcher For Drive (by Google)",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/lmjegmlicamnimmfhcmpkclmigmmcbeh/3.10_0",
+   "permissions": {
+      "active": {
+         "api": [ "nativeMessaging", "offscreen" ],
+         "explicit_hosts": [ "https://docs.google.com/*", "https://drive.google.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "3.10"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
+   "location": "COMPONENT",
+   "manifest_version": 1,
+   "name": "Chrome",
+   "path": "/opt/google/chrome/resources/chrome_app",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_HOSTED_APP",
+   "version": "0.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Chrome PDF Viewer",
+   "path": "/opt/google/chrome/resources/pdf",
+   "permissions": {
+      "active": {
+         "api": [ "contentSettings", "fileSystem", "fileSystem.write", "metricsPrivate", "tabs", "resourcesPrivate", "pdfViewerPrivate" ],
+         "explicit_hosts": [ "chrome://resources/*", "chrome://webui-test/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "mmfbcljfglbokpmkimbfghdkjmjhdgbg",
+   "location": "EXTERNAL_PREF_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Text",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/mmfbcljfglbokpmkimbfghdkjmjhdgbg/0.8.4_0",
+   "permissions": {
+      "active": {
+         "api": [ "app.window.alwaysOnTop", "fileSystem", "fileSystem.retainEntries", "fileSystem.write", "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "0.8.4"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "mmlppcigaeejjlibnlkfhahnknjaoglj",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "0h n0",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/mmlppcigaeejjlibnlkfhahnknjaoglj/1.0.5_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.0.5"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 4,
+      "listeners": [ {
+         "event_name": "notifications.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://mmmdenlpgbgmeofmdkhimecmkcgabgno/"
+      }, {
+         "event_name": "notifications.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://mmmdenlpgbgmeofmdkhimecmkcgabgno/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://mmmdenlpgbgmeofmdkhimecmkcgabgno/"
+      }, {
+         "event_name": "tabs.onUpdated",
+         "is_for_service_worker": true,
+         "is_lazy": false,
+         "url": "chrome-extension://mmmdenlpgbgmeofmdkhimecmkcgabgno/"
+      } ]
+   },
+   "id": "mmmdenlpgbgmeofmdkhimecmkcgabgno",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Uncanny Cookie Clicker",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/mmmdenlpgbgmeofmdkhimecmkcgabgno/0.6.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "notifications", "storage", "tabs" ],
+         "explicit_hosts": [ "http://orteil.dashnet.org/*", "https://orteil.dashnet.org/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "http://orteil.dashnet.org/cookieclicker/", "http://orteil.dashnet.org/cookieclicker/beta/", "https://orteil.dashnet.org/cookieclicker/", "https://orteil.dashnet.org/cookieclicker/beta/" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "0.6.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "mppnpdlheglhdfmldimlhpnegondlapf",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "__MSG_chos_inputtool_title__",
+   "path": "/opt/google/chrome/resources/keyboard",
+   "permissions": {
+      "active": {
+         "api": [ "inputMethodPrivate", "tabs", "virtualKeyboardPrivate" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.0.6.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "nfjbkpkmnjkbabikjacbaobecbacmadh",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "Green Madness",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/nfjbkpkmnjkbabikjacbaobecbacmadh/1.1.0.11_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage", "unlimitedStorage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.1.0.11"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "nkeimhogjdpnpccoofpliimaahmaaome",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Google Hangouts",
+   "path": "/opt/google/chrome/resources/hangout_services",
+   "permissions": {
+      "active": {
+         "api": [ "desktopCapture", "processes", "webrtcAudioPrivate", "webrtcDesktopCapturePrivate", "webrtcLoggingPrivate", "system.cpu", "enterprise.hardwarePlatform" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.3.21"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "action.onClicked",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://nkjphakddmlpbnlpdnfikbikobmjmacb/"
+      }, {
+         "event_name": "runtime.onStartup",
+         "is_for_service_worker": true,
+         "is_lazy": true,
+         "url": "chrome-extension://nkjphakddmlpbnlpdnfikbikobmjmacb/"
+      } ]
+   },
+   "id": "nkjphakddmlpbnlpdnfikbikobmjmacb",
+   "location": "INTERNAL",
+   "manifest_version": 3,
+   "name": "Vex 4",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/nkjphakddmlpbnlpdnfikbikobmjmacb/4.1.0_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "https://*/*", "https://vex-game.com/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "4.1.0"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "runtime.onConnectExternal",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "nmmhkkegccagdldgiimedpiccmgmieda",
+   "location": "EXTERNAL_COMPONENT",
+   "manifest_version": 2,
+   "name": "Chrome Web Store Payments",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0",
+   "permissions": {
+      "active": {
+         "api": [ "identity", "webview" ],
+         "explicit_hosts": [ "https://payments.google.com/*", "https://sandbox.google.com/*", "https://www.google.com/*", "https://www.googleapis.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.0.0.6"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "browserAction.onClicked",
+         "is_for_service_worker": false,
+         "is_lazy": false,
+         "url": ""
+      } ]
+   },
+   "id": "nopfnnpnopgmcnkjchnlpomggcdjfepo",
+   "location": "EXTERNAL_POLICY_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "Clever",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/nopfnnpnopgmcnkjchnlpomggcdjfepo/1.17.1_0",
+   "permissions": {
+      "active": {
+         "api": [ "activeTab", "cookies", "storage", "tabs" ],
+         "explicit_hosts": [ "*://*/*", "https://clever.com/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [ "*://*/*", "*://localhost/in/*", "https://*.int.clever.com/in/*", "https://clever.com/in/*" ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "1.17.1"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 2,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      }, {
+         "event_name": "app.runtime.onRestarted",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "pipldgilehhmkihgelcfjfaanepeakpp",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "My First Browser Reloaded",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/pipldgilehhmkihgelcfjfaanepeakpp/1.4_0",
+   "permissions": {
+      "active": {
+         "api": [ "audioCapture", "app.window.fullscreen", "pointerLock", "storage", "videoCapture", "webview" ],
+         "explicit_hosts": [ "http://*/*", "https://*/*" ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.4"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": -1
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE", "WAS_INSTALLED_BY_DEFAULT", "WAS_INSTALLED_BY_OEM" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 0,
+      "listeners": [  ]
+   },
+   "id": "plamffmopddapimaopfdbibfkjpbojbf",
+   "location": "EXTERNAL_PREF_DOWNLOAD",
+   "manifest_version": 2,
+   "name": "@HP",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/plamffmopddapimaopfdbibfkjpbojbf/1.3_0",
+   "permissions": {
+      "active": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_HOSTED_APP",
+   "version": "1.3"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY", "FROM_WEBSTORE" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "app.runtime.onLaunched",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "plfbpnkceanpmmgpdahebjkenffkahfb",
+   "location": "INTERNAL",
+   "manifest_version": 2,
+   "name": "0h h1",
+   "path": "/home/chronos/u-23cde102bf2fb4669046e1a037936973991dca17/Extensions/plfbpnkceanpmmgpdahebjkenffkahfb/1.3.3_0",
+   "permissions": {
+      "active": {
+         "api": [ "storage" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_PLATFORM_APP",
+   "version": "1.3.3"
+}, {
+   "background_page_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "creation_flags": [ "REQUIRE_KEY" ],
+   "disable_reasons": [  ],
+   "event_listeners": {
+      "count": 1,
+      "listeners": [ {
+         "event_name": "runtime.onConnectNative",
+         "is_for_service_worker": false,
+         "is_lazy": true,
+         "url": ""
+      } ]
+   },
+   "id": "pmfjbimdmchhbnneeidfognadeopoehp",
+   "location": "COMPONENT",
+   "manifest_version": 2,
+   "name": "Image loader",
+   "path": "/opt/google/chrome/resources/image_loader",
+   "permissions": {
+      "active": {
+         "api": [ "nativeMessaging", "storage", "imageLoaderPrivate" ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "optional": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      },
+      "tab_specific": {
+      },
+      "withheld": {
+         "api": [  ],
+         "explicit_hosts": [  ],
+         "manifest": [  ],
+         "scriptable_hosts": [  ]
+      }
+   },
+   "service_worker_keepalives": {
+      "activites": [  ],
+      "count": 0
+   },
+   "type": "TYPE_EXTENSION",
+   "version": "0.2"
+} ]
